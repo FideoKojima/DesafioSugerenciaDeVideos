@@ -49,6 +49,6 @@ El proyecto utiliza el patrón de diseño Módulo y Programación Orientada a Ob
 
 ## 👨‍💻 Desarrollador
 
-Este proyecto fue desarrollado con ❤️ por [Luis Suarez](https://github.com/tu-usuario).
+Este proyecto fue desarrollado con ❤️ por [Luis Suarez](https://github.com/FideoKojima).
 
 ¿Te gustó este proyecto? ¡No olvides darle una ⭐️ en GitHub!
