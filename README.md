@@ -1,7 +1,5 @@
 # 🎥 Proyecto Reproductor de Videos 🎬
 
-![Banner del Proyecto](https://via.placeholder.com/800x200?text=Reproductor+de+Videos)
-
 ## 📜 Descripción
 
 Este proyecto es un reproductor de videos interactivo que permite a los usuarios ver contenido multimedia en tres categorías diferentes: Música 🎵, Películas 🍿 y Series 📺. Utiliza tecnologías web modernas para crear una experiencia de usuario fluida y atractiva.
