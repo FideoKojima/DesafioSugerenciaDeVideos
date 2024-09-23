@@ -24,13 +24,12 @@ Este proyecto es un reproductor de videos interactivo que permite a los usuarios
 
 1. Clone este repositorio:
    ```
-   git clone https://github.com/tu-usuario/reproductor-de-videos.git
+   git clone https://github.com/FideoKojima/DesafioSugerenciaDeVideos.git
    ```
 
 2. Navegue al directorio del proyecto:
    ```
-   cd reproductor-de-videos
-   ```
+   cd DesafioSugerenciaDeVideos
 
 3. Abra el archivo `index.html` en su navegador preferido.
 
@@ -48,12 +47,4 @@ El proyecto utiliza el patrón de diseño Módulo y Programación Orientada a Ob
 
 Este proyecto fue desarrollado con ❤️ por [Luis Suarez](https://github.com/tu-usuario).
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulte el archivo `LICENSE` para más detalles.
-
----
-
 ¿Te gustó este proyecto? ¡No olvides darle una ⭐️ en GitHub!
-
-![Footer](https://via.placeholder.com/800x100?text=Gracias+por+visitar)
